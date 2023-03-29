@@ -4,7 +4,7 @@
 
 ## Mô tả project:
 
-Đây là project xây dựng giao diện của một web site restaurant, project này chỉ áp dụng những kiến thức cơ bản như: `HTML`, `CSS`, `Javascript`, `Git`, `Github` và tìm hiểu về `loading page` cơ bản.
+Đây là project xây dựng giao diện của một web site restaurant, project này chỉ áp dụng những kiến thức cơ bản như: `HTML`, `CSS`, `Javascript`, `Font Awesome` `Git`, `Github`, sử dụng `Swiper` bằng CDN và tìm hiểu về `Loading Page` cơ bản.
 
 ## Link xem trực tiếp trên web:
 
